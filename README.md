@@ -21,7 +21,7 @@ This project sets up a personal Jellyfin media server on an AWS EC2 instance usi
 
  - http://your-ec2-ip:8096
 
-FoldeS Structure 
+Folder Structure 
 
 * /movies 
 * /Tv-shows
