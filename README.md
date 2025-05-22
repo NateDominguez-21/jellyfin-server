@@ -19,14 +19,17 @@ This project sets up a personal Jellyfin media server on an AWS EC2 instance usi
 
 3. Access Jellyfin: 
 
- - http://your-ec2-ip:8096
+ - Visit: `http://<your-ec2-public-ip>:8096` in your browser
 
 Folder Structure 
 
 * /movies 
-* /Tv-shows
+* /tv-shows
 * /music
 
 Author 
 
 Nathaniel Dominguez
+
+![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)
